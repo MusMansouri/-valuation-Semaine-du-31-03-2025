@@ -10,7 +10,8 @@
 </template>
 
 <script setup>
-import CoachCard from "@/components/CoachCard.vue";
+// script setup  config vue 3 composition API
+import CoachCard from "@/components/CoachCard.vue"; // Import de la card coach
 </script>
 
 <style scoped>
